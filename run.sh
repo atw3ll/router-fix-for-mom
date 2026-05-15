@@ -9,3 +9,4 @@ echo "[Sleep]                 \
 echo "\n[daemon] \
 \nAutomaticLoginEnable=True \
 \nAutomaticLogin=michael" >> /etc/gdm/custom.conf
+systemctl reboot
