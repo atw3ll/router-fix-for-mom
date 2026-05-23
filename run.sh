@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 mkdir -p /etc/systemd/sleep.conf.d/
 mkdir -p /etc/gdm/
 echo "[Sleep]                 \
