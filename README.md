@@ -4,3 +4,5 @@
 3. go into folder
 4. give it executable permissions first (option should be available in right-click drop down menu)
 5. run (only once)
+
+or just copy paste run.sh into terminal
